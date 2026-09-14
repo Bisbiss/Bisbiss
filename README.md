@@ -47,28 +47,6 @@ fun_fact: Automating tedious tasks brings me immense joy! ⚡
 
 <hr/>
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-  <!-- Languages & Frameworks -->
-  <p><strong>Languages & Web Tech</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,php,laravel,react,tailwind&theme=dark" alt="Tech Stack" />
-  </a>
-
-  <br><br>
-
-  <!-- No-Code / Automation & Databases -->
-  <p><strong>Automation, Databases & Tools</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,postman,vscode,docker,figma,notion&theme=dark" alt="Tools & DB" />
-  </a>
-
-</div>
-
-<hr/>
-
 ### 📊 GitHub Analytics
 
 <div align="center">
